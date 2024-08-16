@@ -17,6 +17,6 @@ jobs:
           apikey: "sk-p9reRkbTcnLVm4ITgWy0VNzGIDhFTdPxdEg7OM5H0LNSZVRP"
           basePath: "https://free.gpt.ge"
           model: "gpt-4o-mini"
-          inputFiles: "./EN/*.md"
+          inputFiles: "./.github/workflows/*.md"
           outputFiles: "./CN/*.md"
           languages: "chinese"
